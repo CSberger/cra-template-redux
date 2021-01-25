@@ -9,7 +9,7 @@ The official Redux+JS template for [Create React App](https://github.com/faceboo
 ## Usage
 
 ```sh
-npx create-react-app my-app --template redux
+npx create-react-app my-app --template csberger-domain-style
 ```
 
 ## TypeScript
